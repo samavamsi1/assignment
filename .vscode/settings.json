@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Ubuntu Mono', 'Monaco', 'Consolas', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "flow.enabled": false,
+  "eslint.enable": false,
+  "vsicons.presets.angular": false,
+  "editor.formatOnSave": true
+  }
